@@ -12,7 +12,7 @@ La práctica tuvo como objetivo experimentar la creación de procesos en lenguaj
 <img width="355" height="40" alt="image" src="https://github.com/user-attachments/assets/d4adb7cf-862b-4cae-88dc-7a6935ed2fe2" />
 
 2. Compilamos el codigo fuente
-..<img width="749" height="50" alt="image" src="https://github.com/user-attachments/assets/43a36b67-3524-4fdb-84b6-414b605c3b7d" />
+<img width="749" height="50" alt="image" src="https://github.com/user-attachments/assets/43a36b67-3524-4fdb-84b6-414b605c3b7d" />
 
 4. Ejecutamos el programa
    
