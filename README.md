@@ -1,1 +1,1 @@
-# Pr-ctica-3---Sistemas-Operativos-2025B
+# Practica-3---Sistemas-Operativos-2025B
